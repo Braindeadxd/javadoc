@@ -1,0 +1,10 @@
+com.seabattle.SeaBattle
+com.seabattle.SeaBattle.Config
+com.seabattle.SeaBattle.Controller
+com.seabattle.SeaBattle.Controller.Requests
+com.seabattle.SeaBattle.Enums
+com.seabattle.SeaBattle.Exceptions
+com.seabattle.SeaBattle.Model
+com.seabattle.SeaBattle.Repository
+com.seabattle.SeaBattle.Service
+com.seabattle.SeaBattle.Storage
